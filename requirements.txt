@@ -1,0 +1,10 @@
+pymysql
+raven
+splinter
+selenium
+pyvirtualdisplay
+bs4
+lxml
+requests
+configparser
+dateutils
